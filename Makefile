@@ -1,2 +1,3 @@
+
 all:
-	g++ main.c -o solution
+	gcc main.c -o all/solution
